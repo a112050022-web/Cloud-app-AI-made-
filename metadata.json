@@ -1,0 +1,5 @@
+{
+  "name": "Weather & Outfit AI",
+  "description": "A beautiful weather dashboard with AI-powered outfit suggestions based on real-time climate data.",
+  "requestFramePermissions": []
+}
